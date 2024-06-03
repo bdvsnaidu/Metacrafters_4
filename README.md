@@ -1,6 +1,5 @@
-# Metacrafters_4
-Eth proof (intermediate)- Creating a smart contract with 2 or 3 functions and integrating it with the front end.
-
+# ASSESSMENT-4
+Creating a smart contract with 2 or 3 functions and integrating it with the front end.
 
 # Description
 We will be building a smart contract with some functions and integrating it with the front-end part. So we can make the changes required with the help of the icons present in the frontend application so that it will be connected with the backend (meta mask wallet). The basic idea is that in the frontend we will be importing Web3 and establishing a connection with the Ethereum network. For this project, we will install some different software like Node js and Metamask. Node js is a javascript runtime environment and library for running web applications. Metamask is a cryptocurrency wallet used to interact with the Ethereum blockchain. The main thing to establish a connection with the front end is the Contract address and the ABI (application binary interface). We added an extra function which is the calculator, which performs operations like addition, subtraction, and multiplication.
@@ -33,7 +32,8 @@ After this, the project will be running on your local host. Typically at http://
 
 # Video walkthrough
 
-https://www.loom.com/share/32e66174dfe74a659ec9889da6883b52?sid=bcb9d345-c102-463e-aa45-4119176931a7
+https://www.loom.com/share/168db9551511417184396ff3938633bd?sid=fe31664a-b0b0-49e4-8328-24ed436d62bf
 
 # Authors
 BYLAPUDI DEEPAK VENKATA SWAMY NAIDU @bdvsnaidu(https://github.com/bdvsnaidu)
+
